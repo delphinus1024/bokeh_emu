@@ -14,31 +14,21 @@ Original image (Size: 1920 x 1230)
 
 Kernel and processed image with parameter (-k ./kernel/poly9_kernel.tif -r 45 -b 8 -g 3.0)
 
-![DEMO](https://github.com/delphinus1024/bokeh_emu/raw/master/kernel/poly9_kernel.tif)
-
 <img src="https://raw.githubusercontent.com/wiki/delphinus1024/bokeh_emu/image/poly9-r45-b8-g3_0.png" style="width: 600px;"/>
 
 Kernel and processed image with parameter (-k ./kernel/poly9_kernel.tif -r 111 -b 8 -g 3.0)
-
-![DEMO](https://github.com/delphinus1024/bokeh_emu/blob/master/kernel/poly9_kernel.tif)
 
 <img src="https://raw.githubusercontent.com/wiki/delphinus1024/bokeh_emu/image/poly9-r111-b8-g3_0.png" style="width: 600px;"/>
 
 Kernel and processed image with parameter (-k ./kernel/circle2_kernel.tif -r 131 -g 3.0)
 
-![DEMO](https://github.com/delphinus1024/bokeh_emu/blob/master/kernel/circle2_kernel.tif)
-
 <img src="https://raw.githubusercontent.com/wiki/delphinus1024/bokeh_emu/image/circle2-r131-g3_0.png" style="width: 600px;"/>
 
 Kernel and processed image with parameter (-k ./kernel/donut_kernel.tif -r 111 -b 8 -g 1.9)
 
-![DEMO](https://github.com/delphinus1024/bokeh_emu/blob/master/kernel/donut_kernel.tif)
-
 <img src="https://raw.githubusercontent.com/wiki/delphinus1024/bokeh_emu/image/donut-r111-b8-g1_9.png" style="width: 600px;"/>
 
 Kernel and processed image with parameter (-k ./kernel/star_kernel.tif -r 151 -b 3 -g 1.9)
-
-![DEMO](https://github.com/delphinus1024/bokeh_emu/blob/master/kernel/star_kernel.tif)
 
 <img src="https://raw.githubusercontent.com/wiki/delphinus1024/bokeh_emu/image/star-r151-b3-g1_9.png" style="width: 600px;"/>
 
